@@ -20,7 +20,7 @@ image: dms_logo.png
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 160%; text-align: center;">
     	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://covid19.ut-wcwh.org/study-info/'">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Click to learn more!</div>
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Click to Learn More!</div>
     	</div>
     </div>
 </body>
