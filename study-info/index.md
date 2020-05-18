@@ -1,8 +1,7 @@
 ---
 layout: page_no_sidebar
 title: "Study Information"
-image:
-  feature: UT_students.jpg
+image: UT_students.jpg
 search_omit: true
 sitemap: false
 ---
