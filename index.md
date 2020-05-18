@@ -3,12 +3,11 @@ title:
 layout: page
 image: dms_logo.png
 ---
-<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">COVID-19 Sensing Study</p>
 <p align="center">
   <img width="460" height="300" src="https://static.wixstatic.com/media/ce993c_79db1919e7db47bda306d5af4951fe21~mv2.png/v1/fill/w_345,h_240,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-05-14%20at%209_54_52%20PM.webp">
 </p>
 
-
+<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">Sensing Study</p>
 
 
 <body style="" marginwidth="0" marginheight="0">
