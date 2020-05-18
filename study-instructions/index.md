@@ -1,0 +1,26 @@
+---
+layout: page_no_sidebar
+title: "Study Instructions"
+image:
+  feature: UT_students.jpg
+search_omit: true
+sitemap: false
+---
+
+# Study Instructions for Participants
+
+Welcome to this study! If you are on this page, it means you have read our [study information page](http://covid19.ut-wcwh.org/study-info/) and are ready to participate in the study, helping us learn about the behavioral and psychological responses to the COVID-19 pandemic. The study consists of the two steps described below. For each week you participate in the study (at least three weeks), you will receive confidential and personal feedback on your behaviors and moods. If you have any problems completing either of these steps or receiving your [feedback](), please email us at utcovid19study@austin.utexas.edu.
+ 
+So, here’s how it will work. You will complete the following two steps in order. 
+ 
+## Step 1: Take a survey
+In Step 1, you will provide [informed consent form]() and complete a 30-40 minute survey about your psychological and behavioral responses to COVID-19. At the end of the survey, you will be sent credentials needed to complete Step 2. (You cannot progress to Step 2 until you complete Step 1). 
+
+**You can begin Step 1 now, by clicking [here](https://redcap.prc.utexas.edu/redcap/surveys/?s=8EAHX9FARC).**
+ 
+## Step 2: Track your experiences with the Beiwe2 app
+In Step 2, we will record your behavioral and psychological experiences during the COVID-19 pandemic for three weeks (or more, if you decide to continue participating in the study) using a smartphone app called Beiwe2. You will download Beiwe2 from the Apple App Store or the Google Play Store and will keep the app on your phone for the duration of the study. For the app to send data to our servers, you must periodically connect to wifi. Keep in mind that having the app on your phone could cause your phone battery to run down a little faster.
+
+After you download the app, you will use the username and password emailed to you at the end of Step 1 to log-in. These log-in credentials protect your privacy by making sure that no personally identifying information is associated with your [data](). The app will access some of your phone’s sensors and will send you two to three daily notifications (usually at 9am and 9pm) asking you to respond to 1-2 minute surveys. You should complete at least two surveys each day. Each night you will also be asked to record a short audio clip, and once a week you will be asked to upload digital selfies to https://digital-selfie.ut-wcwh.org/. (We recommend you bookmark this site so that you can navigate to it easily). 
+**After you have completed Step 1, you can start Step 2 by following the instructions [here](https://docs.google.com/document/d/1syvP9rfAXuCAVBL8L8LDDZCKRRQlE55UI9De19DLlsI/edit?usp=sharing).**
+

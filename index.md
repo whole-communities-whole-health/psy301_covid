@@ -7,7 +7,7 @@ image: dms_logo.png
 
 
 
-<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">College Life Brain Study<br>The University of Texas at Austin</p>
+<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">COVID-19<br>Sensing Study</p>
 
 ![](/images/mni152.png)
 
@@ -16,7 +16,7 @@ image: dms_logo.png
 
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 160%; text-align: center;">
-    	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH', '_blank')">
+    	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('http://covid19.ut-wcwh.org/study-instructions/', '_blank')">
     		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Click to Sign Up!</div>
     	</div>
     </div>
@@ -24,7 +24,7 @@ image: dms_logo.png
 
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 160%; text-align: center;">
-    	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://computational-neuroimaging-lab.org/college-life-study/participant-info/'">
+    	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://covid19.ut-wcwh.org/study-info/'">
     		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">For Current Participants</div>
     	</div>
     </div>
@@ -45,28 +45,20 @@ A multi-disciplinary team at the University of Texas at Austin in Psychology, Co
 
 Such information will be vital in devising interventions and treatments for this pandemic and preparing for others that might come. Many key questions urgently need to be addressed, like how exactly do people cope with stress under these circumstances? How do people's social activities change? Where do people get their information and how does it affect behaviors relevant to public health?
 
-​
-
-To learn more, [CLICK HERE]().
-
-To volunteer to be a participant, [CLICK HERE]().
-
-
-
 ___
 
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 150%; text-align: center;">
-    	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH', '_blank')">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Check Eligibility!</div>
+    	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('http://covid19.ut-wcwh.org/study-instructions/', '_blank')">
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Learn more!</div>
     	</div>
     </div>
 </body>
 
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 150%; text-align: center;">
-    	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://computational-neuroimaging-lab.org/college-life-study/participant-info/'">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Current Participants</div>
+    	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://covid19.ut-wcwh.org/study-info/'">
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Sign up here!</div>
     	</div>
     </div>
 </body>
