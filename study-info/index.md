@@ -1,12 +1,10 @@
 ---
-layout: page_no_sidebar
-title: "Study Information"
+layout: page
+title: "Study Information for Participants"
 image: UT_students.jpg
 search_omit: true
 sitemap: false
 ---
-
-# Study Information for Participants
 
 Below we address some questions you might have about participating in this study. If you have further questions after consulting this FAQ, please email <utcovid19Study@austin.utexas.edu>.
 
