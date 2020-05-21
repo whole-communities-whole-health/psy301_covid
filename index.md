@@ -4,11 +4,8 @@ layout: page
 image: RGB_university_formal_horizontal.png
 ---
 <p align="center">
-  <img width="460" height="300" src="https://static.wixstatic.com/media/ce993c_79db1919e7db47bda306d5af4951fe21~mv2.png/v1/fill/w_345,h_240,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-05-14%20at%209_54_52%20PM.webp">
+  <img width="460" height="300" src="/images/covid19.png">
 </p>
-
-<p style="color:rgb(0, 0, 0); font-size:200%; font-weight: bold; text-align: center">Sensing Study</p>
-
 
 ___
 # Using smartphones to study behavioral and psychological responses to the COVID-19 pandemic
