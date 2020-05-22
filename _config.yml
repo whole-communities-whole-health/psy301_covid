@@ -3,7 +3,7 @@ plugins:
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "COVID 19 Study"
+title: "COVID-19 Smartphone Sensing Study"
 description: "A study of the impacts of COVID-19 and social distancing."
 baseurl: ""
 url: https://covid19.ut-wcwh.org

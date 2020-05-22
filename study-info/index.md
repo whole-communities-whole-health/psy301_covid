@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Study Information for Participants"
-search_omit: true
-sitemap: false
+image: RGB_university_formal_horizontal.png
 ---
 
 <p align="center">
