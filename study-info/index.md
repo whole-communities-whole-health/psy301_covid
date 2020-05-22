@@ -11,29 +11,18 @@ Below we address some questions you might have about participating in this study
 Table of Contents
 =================
 
--[Who can participate?](#who-can-participate)
-
--[What will the study involve?](#what-will-the-study-involve)
-
--[Why should I participate?](#why-should-i-participate)
-
--[I am an undergraduate at the University of Texas at Austin. Can I get experimental requirement credit?](#i-am-an-undergraduate-at-the-university-of-texas-at-austin-can-i-get-experimental-requirement-credit)
-
--[Can I drop out of the study once it has started?](#can-i-drop-out-of-the-study-once-it-has-started)
-
--[How is this study better than others?](#how-is-this-study-better-than-others)
-
--[Will my data be safe?](#will-my-data-be-safe)
-
--[What information will be collected by the research app?](#what-information-will-be-collected-by-the-research-app)
-
--[Examples of feedback](#examples-of-feedback)
-
--[How long will the study last?](#how-long-will-the-study-last)
-
--[If I know others who would like to be involved, can they join the study too?](#if-i-know-others-who-would-like-to-be-involved-can-they-join-the-study-too)
-
--[How do I enroll in the study?](#how-do-i-enroll-in-the-study)
+* [Who can participate?](#who-can-participate)
+* [What will the study involve?](#what-will-the-study-involve)
+* [Why should I participate?](#why-should-i-participate)
+* [I am an undergraduate at the University of Texas at Austin. Can I get experimental requirement credit?](#i-am-an-undergraduate-at-the-university-of-texas-at-austin-can-i-get-experimental-requirement-credit)
+* [Can I drop out of the study once it has started?](#can-i-drop-out-of-the-study-once-it-has-started)
+* [How is this study better than others?](#how-is-this-study-better-than-others)
+* [Will my data be safe?](#will-my-data-be-safe)
+* [What information will be collected by the research app?](#what-information-will-be-collected-by-the-research-app)
+* [What will the feedback I receive look like?](#examples-of-feedback)
+* [How long will the study last?](#how-long-will-the-study-last)
+* [If I know others who would like to be involved, can they join the study too?](#if-i-know-others-who-would-like-to-be-involved-can-they-join-the-study-too)
+* [How do I enroll in the study?](#how-do-i-enroll-in-the-study)
 
 ___
 
@@ -49,7 +38,7 @@ There will be two main components:
 
 1) At the beginning of the study you will complete some questionnaires to give us a better sense of your current state of mind and living situation and how it’s changed since COVID-19 started influencing daily life. There will also be a wrap-up questionnaire at the end.
 
-2) You will download a specially created, secure research app to your smartphone. This app will collect data from some of the sensors on your smartphone to provide information about your patterns of activity, mobility, and social behaviors. It will also send you a set of brief questions 2-3 times per day, asking about your sleep, COVID-19 symptoms (if any), moods, levels of stress, etc.; the surveys take 1-2 mins to complete. You can learn more about the full set of sensors and questions asked [here](#what-information-will-be-collected-by-the-research-app-). 
+2) You will download a specially created, secure research app to your smartphone. This app will collect data from some of the sensors on your smartphone to provide information about your patterns of activity, mobility, and social behaviors. It will also send you a set of brief questions 2-3 times per day, asking about your sleep, COVID-19 symptoms (if any), moods, levels of stress, etc.; the surveys take 1-2 mins to complete. You can learn more about the full set of sensors and questions asked [here](#what-information-will-be-collected-by-the-research-app). 
 
 [Back to top](#table-of-contents)
 
@@ -121,17 +110,36 @@ ___
 Below are some examples of the kind feedback you’ll get over the course of the study. 
 
 * Happiness Levels (across weeks):
+<p align="center">
+  <img width="460" height="300" src="/images/happiness_levels.png">
+</p>
+
 * Stress Levels (by time of day):
+<p align="center">
+  <img width="460" height="300" src="/images/stress_levels.png">
+</p>
 
 The information shown on this page are class averages.
 
 * Virtual and IRL Interaction Patterns (for duration of the study):
+<p align="center">
+  <img width="460" height="300" src="/images/virtual_irl_patterns.png">
+</p>
 
 * Interaction Partners (for duration of the study):
+<p align="center">
+  <img width="460" height="300" src="/images/interaction_partners.png">
+</p>
 
 * Frequency of Unlocking Phone (across weeks):
+<p align="center">
+  <img width="460" height="300" src="/images/unlock_freq.png">
+</p>
 
 * Screen time in Seconds (across weeks):
+<p align="center">
+  <img width="460" height="300" src="/images/screen_time.png">
+</p>
 
 [Back to top](#table-of-contents)
 
