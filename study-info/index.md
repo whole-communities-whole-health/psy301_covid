@@ -11,19 +11,7 @@ Below we address some questions you might have about participating in this study
 Table of Contents
 =================
 
-- [Who can participate?](#who-can-participate-)
-- [What will the study involve?](#what-will-the-study-involve-)
-- [Why should I participate?](#why-should-i-participate-)
-- [I am an undergraduate at the University of Texas at Austin. Can I get experimental requirement credit?](#i-am-an-undergraduate-at-the-university-of-texas-at-austin-can-i-get-experimental-requirement-credit-)
-- [Can I drop out of the study once it has started?](#can-i-drop-out-of-the-study-once-it-has-started-)
-- [How is this study better than others?](#how-is-this-study-better-than-others-)
-- [Will my data be safe?](#will-my-data-be-safe-)
-- [What information will be collected by the research app?](#what-information-will-be-collected-by-the-research-app-)
-- [Examples of feedback](#examples-of-feedback)
-- [How long will the study last?](#how-long-will-the-study-last-)
-- [If I know others who would like to be involved, can they join the study too?](#if-i-know-others-who-would-like-to-be-involved--can-they-join-the-study-too-)
-- [How do I enroll in the study?](#how-do-i-enroll-in-the-study-)
-
+<!-- TOC -->autoauto- [Who can participate?](#who-can-participate)auto- [What will the study involve?](#what-will-the-study-involve)auto- [Why should I participate?](#why-should-i-participate)auto- [I am an undergraduate at the University of Texas at Austin. Can I get experimental requirement credit?](#i-am-an-undergraduate-at-the-university-of-texas-at-austin-can-i-get-experimental-requirement-credit)auto- [Can I drop out of the study once it has started?](#can-i-drop-out-of-the-study-once-it-has-started)auto- [How is this study better than others?](#how-is-this-study-better-than-others)auto- [Will my data be safe?](#will-my-data-be-safe)auto- [What information will be collected by the research app?](#what-information-will-be-collected-by-the-research-app)auto- [Examples of feedback](#examples-of-feedback)auto- [How long will the study last?](#how-long-will-the-study-last)auto- [If I know others who would like to be involved, can they join the study too?](#if-i-know-others-who-would-like-to-be-involved-can-they-join-the-study-too)auto- [How do I enroll in the study?](#how-do-i-enroll-in-the-study)autoauto<!-- /TOC -->
 ___
 
 ## Who can participate?

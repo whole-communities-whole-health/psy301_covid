@@ -1,5 +1,5 @@
 ---
-layout: page_no_sidebar
+layout: page
 title: "Study Instructions"
 image: UT_students.jpg
 search_omit: true
