@@ -5,7 +5,9 @@ image: RGB_university_formal_horizontal.png
 ---
 
 <p align="center">
+  <a href="http://covid19.ut-wcwh.org/">
   <img width="460" height="300" src="/images/covid19.png">
+  </a>
 </p>
 
 Welcome to this study! If you are on this page, it means you have read our [study information page](http://covid19.ut-wcwh.org/study-info/) and are ready to participate in the study, helping us learn about the behavioral and psychological responses to the COVID-19 pandemic. The study consists of the two steps described below. For each week you participate in the study (at least three weeks), you will receive confidential and personal feedback on your behaviors and moods. If you have any problems completing either of these steps or receiving your [feedback](http://covid19.ut-wcwh.org/study-info/#examples-of-feedback), please email us at <utcovid19study@austin.utexas.edu>.
