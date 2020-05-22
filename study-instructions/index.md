@@ -1,9 +1,8 @@
 ---
-layout: page
 title: "Study Instructions for Participants"
+layout: page
 image: RGB_university_formal_horizontal.png
 ---
-
 <p align="center">
   <a href="http://covid19.ut-wcwh.org/">
   <img width="460" height="300" src="/images/covid19.png">
