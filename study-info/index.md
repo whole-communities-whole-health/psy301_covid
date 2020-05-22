@@ -9,7 +9,7 @@ sitemap: false
   <img width="460" height="300" src="/images/covid19.png">
 </p>
 
-Below we address some questions you might have about participating in this study. If you have further questions after consulting this FAQ, please email <utcovid19Study@austin.utexas.edu>.
+Below we address some questions you might have about participating in this study. If you have further questions after consulting this FAQ, please email <utcovid19study@austin.utexas.edu>.
 
 Table of Contents
 =================
