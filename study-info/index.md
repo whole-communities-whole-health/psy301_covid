@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Study Information for Participants"
-image: UT_students.jpg
 search_omit: true
 sitemap: false
 ---
+
+<p align="center">
+  <img width="460" height="300" src="/images/covid19.png">
+</p>
 
 Below we address some questions you might have about participating in this study. If you have further questions after consulting this FAQ, please email <utcovid19Study@austin.utexas.edu>.
 
@@ -163,7 +166,7 @@ ___
 
 ## How do I enroll in the study?
 
-Please follow [this link](http://covid19.ut-wcwh.org/study-info/) to start the first step of the study. If you are a University of Texas at Austin student who seeking research credit for your participation, please find the study and enroll in it on [SONA](https://utexas.sona-systems.com/default.aspx?p_return_experiment_id=814). 
+Please follow [this link](http://covid19.ut-wcwh.org/study-instructions/) to start the first step of the study. If you are a University of Texas at Austin student who seeking research credit for your participation, please find the study and enroll in it on [SONA](https://utexas.sona-systems.com/default.aspx?p_return_experiment_id=814). 
 
 ___
 
