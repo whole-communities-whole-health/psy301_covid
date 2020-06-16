@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 layout: page
 image: RGB_university_formal_horizontal.png
 ---
