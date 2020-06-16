@@ -6,29 +6,32 @@ image:
 ---
 
 # Investigators
+Sam Gosling, PhD
+
+Jamie Pennebaker, PhD
+
+Gabriella Harari, PhD
+
 Cameron Craddock, PhD
 
-Elizabeth Widen, PhD
-
-Elizabeth Lippard, PhD
-
-Mbemba Jabbi, PhD
-
-Charles Nemeroff, PhD
-
-Jack Virostko, PhD
-
-
 # Staff
-Timothy Weng, PhD
+Sanaz Talaifar
 
-Manwitha Dodla, BS
+Aswhini Ashokkumar
 
-Ruben Vela, MA
+Clemens Stachl
 
-Angela Schumaker, LP, BS EHS
+Zachariah Marrero
 
-# Research assistants
-Shreya Gupta
+Ruben Vela
 
-Shaurya Aggarwal
+Sumer Vaid
+
+# Research Assistants
+Lina Bakri
+
+Serena Jimyn Soh
+
+Faiza Quadri
+
+Carolyn Minton
