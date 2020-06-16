@@ -3,8 +3,11 @@ title:
 layout: page
 image: RGB_university_formal_horizontal.png
 ---
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="/images/covid19.png">
+</p>
+<p align="right">
+  <img width="460" height="300" src="/images/pandemicproject.png">
 </p>
 
 ___
