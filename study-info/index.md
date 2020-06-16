@@ -5,10 +5,12 @@ image: RGB_university_formal_horizontal.png
 ---
 <p align="center">
   <a href="http://covid19.ut-wcwh.org/">
-  <img width="460" height="300" src="/images/covid19.png">
+  <img width="430" height="280" src="/images/covid19.png">
+  </a>
+  <a href="https://utpsyc.org/covid19/index.html">
+  <img width="430" height="280" src="/images/pandemicproject.png">
   </a>
 </p>
-
 ___
 # Study Information for Participants
 
