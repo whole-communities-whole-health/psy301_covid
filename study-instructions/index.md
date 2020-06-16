@@ -5,6 +5,7 @@ image: RGB_university_formal_horizontal.png
 ---
 <p align="center">
   <a href="http://covid19.ut-wcwh.org/">
+  </a>
   <img width="430" height="280" src="/images/covid19.png">
   <a href="https://utpsyc.org/covid19/index.html">
   <img width="430" height="280" src="/images/pandemicproject.png">
