@@ -4,10 +4,8 @@ layout: page
 image: RGB_university_formal_horizontal.png
 ---
 <p align="left">
-  <img width="460" height="300" src="/images/covid19.png">
-</p>
-<p align="right">
-  <img width="460" height="300" src="/images/pandemicproject.png">
+  <img width="400" height="250" src="/images/covid19.png">
+  <img width="400" height="250" src="/images/pandemicproject.png">
 </p>
 
 ___
