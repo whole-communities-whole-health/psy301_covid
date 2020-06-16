@@ -3,9 +3,9 @@ title:
 layout: page
 image: RGB_university_formal_horizontal.png
 ---
-<p align="left">
-  <img width="400" height="250" src="/images/covid19.png">
-  <img width="400" height="250" src="/images/pandemicproject.png">
+<p align="center">
+  <img width="430" height="280" src="/images/covid19.png">
+  <img width="430" height="280" src="/images/pandemicproject.png" a href="https://utpsyc.org/covid19/index.html>
 </p>
 
 ___
