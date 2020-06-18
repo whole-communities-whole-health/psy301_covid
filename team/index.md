@@ -16,24 +16,24 @@ image: RGB_university_formal_horizontal.png
 # Investigators
 [Sam Gosling, PhD](https://liberalarts.utexas.edu/psychology/faculty/sdg68)
 
-Jamie Pennebaker, PhD
+[Jamie Pennebaker, PhD](https://liberalarts.utexas.edu/psychology/faculty/pennebak)
 
-Gabriella Harari, PhD
+[Gabriella Harari, PhD](https://comm.stanford.edu/faculty-harari/)
 
-Cameron Craddock, PhD
+[Cameron Craddock, PhD](http://computational-neuroimaging-lab.org/)
 
 # Staff
-Sanaz Talaifar
+[Sanaz Talaifar](https://www.sanaztalaifar.com/)
 
-Aswhini Ashokkumar
+[Aswhini Ashokkumar](https://ashwiniashokkumar.weebly.com/)
 
-Clemens Stachl, PhD
+[Clemens Stachl, PhD](https://sites.google.com/view/clemensstachl/home)
 
-Zachariah Marrero
+[Zachariah Marrero](https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=znm232)
 
-Ruben Vela
+[Sumer Vaid](https://www.sumervaid.org/)
 
-Sumer Vaid
+[Ruben Vela](https://dellmed.utexas.edu/directory/ruben-vela)
 
 # Research Assistants
 Lina Bakri
@@ -41,5 +41,3 @@ Lina Bakri
 Serena Jimyn Soh
 
 Faiza Quadri
-
-Carolyn Minton
