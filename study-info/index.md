@@ -163,7 +163,7 @@ ___
 
 ## If I know others who would like to be involved, can they join the study too? 
 
-Yes. Simply share this doc on social media, email it to a friend, or ask them to email us at <utcovid19study@austin.utexas.edu>.
+Yes. Simply share this [webiste](http://covid19.ut-wcwh.org/) on social media, email it to a friend, or ask them to email us at <utcovid19study@austin.utexas.edu>.
 
 [Back to top](#table-of-contents)
 
