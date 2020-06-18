@@ -14,7 +14,7 @@ image: RGB_university_formal_horizontal.png
 ---
 
 # Investigators
-Sam Gosling, PhD <a href="https://liberalarts.utexas.edu/psychology/faculty/sdg68"> </a>
+[Sam Gosling, PhD](https://liberalarts.utexas.edu/psychology/faculty/sdg68)
 
 Jamie Pennebaker, PhD
 
