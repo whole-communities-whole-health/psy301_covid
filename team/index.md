@@ -14,7 +14,7 @@ image: RGB_university_formal_horizontal.png
 ---
 
 # Investigators
-Sam Gosling, PhD
+Sam Gosling, PhD <a href="https://liberalarts.utexas.edu/psychology/faculty/sdg68"> </a>
 
 Jamie Pennebaker, PhD
 
@@ -27,7 +27,7 @@ Sanaz Talaifar
 
 Aswhini Ashokkumar
 
-Clemens Stachl
+Clemens Stachl, PhD
 
 Zachariah Marrero
 
