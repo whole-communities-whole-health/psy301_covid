@@ -46,7 +46,7 @@ There will be two main components:
 
 1) At the beginning of the study you will complete some questionnaires to give us a better sense of your current state of mind and living situation and how it’s changed since COVID-19 started influencing daily life. There will also be a wrap-up questionnaire at the end.
 
-2) You will download a specially created, secure research app to your smartphone. This app will collect data from some of the sensors on your smartphone to provide information about your patterns of activity, mobility, and social behaviors. It will also send you a set of brief questions 2-3 times per day, asking about your sleep, COVID-19 symptoms (if any), moods, levels of stress, etc.; the surveys take 1-2 mins to complete. You can learn more about the full set of sensors and questions asked [here](#what-information-will-be-collected-by-the-research-app). 
+2) You will download a specially created, secure research app to your smartphone. This app will collect data from some of the sensors on your smartphone to provide information about your patterns of activity, mobility, and social behaviors. It will also send you a set of brief questions 2-3 times per day, asking about your sleep, COVID-19 symptoms (if any), moods, levels of stress, etc.; the surveys take 1-2 minutes to complete. You can learn more about the full set of sensors and questions asked [here](#what-information-will-be-collected-by-the-research-app). 
 
 [Back to top](#table-of-contents)
 
