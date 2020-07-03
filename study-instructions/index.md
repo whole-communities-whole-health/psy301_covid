@@ -20,7 +20,7 @@ Welcome to this study! If you are on this page, it means you have read our [stud
 So, here’s how it will work. You will complete the following two steps in order. 
  
 ## Step 1: Take a survey
-In Step 1, you will provide <a href="https://drive.google.com/open?id=1rTROuTRnuLRAlj1MTkCKngwcSZzY_1J1" target="_blank">informed consent form</a> and complete a survey about your psychological and behavioral responses to COVID-19. At the end of the survey, you will be sent credentials needed to complete Step 2. (You cannot progress to Step 2 until you complete Step 1). 
+In Step 1, you will provide informed consent form and complete a survey about your psychological and behavioral responses to COVID-19. At the end of the survey, you will be sent credentials needed to complete Step 2. (You cannot progress to Step 2 until you complete Step 1). 
 
 <body>
   <p style="color:rgb(191, 87, 0);"><b>You can begin Step 1 now, by clicking <a href="https://utexas.qualtrics.com/jfe/form/SV_6XtqUij1WW1EEE5" target="_blank">here.</a></b></p>
