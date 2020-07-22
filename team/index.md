@@ -23,11 +23,11 @@ image: RGB_university_formal_horizontal.png
 [Cameron Craddock, PhD](http://computational-neuroimaging-lab.org/)
 
 # Staff
-[Sanaz Talaifar](https://www.sanaztalaifar.com/)
-
-[Aswhini Ashokkumar](https://ashwiniashokkumar.weebly.com/)
+[Sanaz Talaifar, PhD](https://www.sanaztalaifar.com/)
 
 [Clemens Stachl, PhD](https://sites.google.com/view/clemensstachl/home)
+
+[Aswhini Ashokkumar](https://ashwiniashokkumar.weebly.com/)
 
 [Zachariah Marrero](https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=znm232)
 
