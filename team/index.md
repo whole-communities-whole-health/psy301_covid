@@ -36,7 +36,6 @@ image: RGB_university_formal_horizontal.png
 [Ruben Vela](https://dellmed.utexas.edu/directory/ruben-vela)
 
 # Research Assistants
-Lina Bakri
 
 Serena Jimyn Soh
 
