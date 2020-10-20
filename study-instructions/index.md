@@ -23,7 +23,7 @@ So, here’s how it will work. You will complete the following two steps in orde
 In Step 1, you will provide informed consent form and complete a survey about your psychological and behavioral responses to COVID-19. At the end of the survey, you will be sent credentials needed to complete Step 2. (You cannot progress to Step 2 until you complete Step 1). 
 
 <body>
-  <p style="color:rgb(191, 87, 0);"><b>You can begin Step 1 now, by clicking <a href="https://utexas.qualtrics.com/jfe/form/SV_6XtqUij1WW1EEE5" target="_blank">here.</a></b></p>
+  <p style="color:rgb(191, 87, 0);"><b>We are no longer recruiting participants at this time. </b></p>
 </body>
 
 
@@ -33,6 +33,6 @@ In Step 2, we will record your behavioral and psychological experiences during t
 After you download the app, you will use the username and password emailed to you at the end of Step 1 to log-in. These log-in credentials protect your privacy by making sure that no personally identifying information is associated with your <a href="http://covid19.ut-wcwh.org/study-info/#will-my-data-be-safe" target="_blank">data</a>. The app will access some of your phone’s sensors and will send you two to three daily notifications (usually at 9am and 9pm) asking you to respond to 1-2 minute surveys. You should complete at least two surveys each day. Each night you will also be asked to record a short audio clip, and once a week you will be asked to upload digital selfies to <a href="https://digital-selfie.ut-wcwh.org/" target="_blank">https://digital-selfie.ut-wcwh.org/</a>. (We recommend you bookmark this site so that you can navigate to it easily). 
 
 <body>
-  <p style="color:rgb(191, 87, 0);"><b>After you have completed Step 1, you can start Step 2 by following the instructions <a href="https://docs.google.com/document/d/1syvP9rfAXuCAVBL8L8LDDZCKRRQlE55UI9De19DLlsI/edit?usp=sharing" target="_blank">here.</a></b></p>
+  <p style="color:rgb(191, 87, 0);"><b>We are no longer recruiting participants at this time.</b></p>
 </body>
 
